@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e909856c-ab0f-40ce-991f-21b8ba04f332" name="Changes" comment="change curierkind">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="UML Activity" />
+        <option value="UML Sequence" />
+        <option value="UML Use Case" />
+        <option value="UML Class" />
+        <option value="UML Component" />
+        <option value="UML State" />
+        <option value="UML MindMap" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2aFtyjPVMGjJbeH2ceH9VWKXeAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML MindMap&quot;,
+    &quot;JUnit.AdminTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AdsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BuyerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BuyerTest.testCheckUsernameAndPasswordCorrect.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CheckPMDTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CheckPMDTest.testPMD.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CheckStyleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UsersTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java/HomeWork/H9/seabattle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.BuyerTest.testCheckUsernameAndPasswordCorrect">
+    <configuration name="BuyerTest.testCheckUsernameAndPasswordCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw-assignment-todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.style.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.kntu.style" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.style.BuyerTest" />
+      <option name="METHOD_NAME" value="testCheckUsernameAndPasswordCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPMDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw-assignment-todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.style.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.kntu.style" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.style.CheckPMDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPMDTest.testPMD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw-assignment-todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.style.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.kntu.style" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.style.CheckPMDTest" />
+      <option name="METHOD_NAME" value="testPMD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckStyleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw-assignment-todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.style.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.kntu.style" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.style.CheckStyleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw-assignment-todo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.style.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.kntu.style" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.style.UsersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BuyerTest.testCheckUsernameAndPasswordCorrect" />
+        <item itemvalue="JUnit.CheckStyleTest" />
+        <item itemvalue="JUnit.CheckPMDTest" />
+        <item itemvalue="JUnit.CheckPMDTest.testPMD" />
+        <item itemvalue="JUnit.UsersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e909856c-ab0f-40ce-991f-21b8ba04f332" name="Changes" comment="" />
+      <created>1703926411902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703926411902</updated>
+      <workItem from="1704768187578" duration="891000" />
+      <workItem from="1704770213294" duration="44000" />
+      <workItem from="1704845635327" duration="3565000" />
+      <workItem from="1704849216648" duration="325000" />
+      <workItem from="1704978193473" duration="400000" />
+      <workItem from="1704978600832" duration="2377000" />
+      <workItem from="1705784738391" duration="82000" />
+      <workItem from="1706868807309" duration="313000" />
+      <workItem from="1718234251806" duration="18000" />
+      <workItem from="1718234311691" duration="392000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implement project 1 by using inheritence">
+      <created>1703982932565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703982932565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create Courier and Order and CourierKind classes to handel delivery">
+      <created>1704121774602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704121774602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create Courier and Order for delivery&#10;creat Enum AdsStatuse and change code of project1 based on this Enum">
+      <created>1704137191165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704137191165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="debug some bugs about delivery">
+      <created>1704286436420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704286436420</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sign up admin&#10;pay salary">
+      <created>1704319380240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704319380240</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Filter for buyer">
+      <created>1704549350625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704549350625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="generate UserMenu class &#10;generate Chat class(all users can chat with other users)">
+      <created>1704581805277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704581805277</updated>
+    </task>
+    <task id="LOCAL-00008" summary="generate method coomentMenu in BuyerMenu class">
+      <created>1704626502350</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704626502350</updated>
+    </task>
+    <task id="LOCAL-00009" summary="use ANSI code for sout">
+      <created>1704647179082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704647179082</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create package menu for menu classes&#10;generate test classes by JUnit">
+      <created>1704753068152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704753068152</updated>
+    </task>
+    <task id="LOCAL-00011" summary="write javaDoc">
+      <option name="closed" value="true" />
+      <created>1704848853811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704848853811</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change curierkind">
+      <option name="closed" value="true" />
+      <created>1704849521335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704849521335</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement project 1 by using inheritence" />
+    <MESSAGE value="create Courier and Order and CourierKind classes to handel delivery" />
+    <MESSAGE value="create Courier and Order for delivery&#10;creat Enum AdsStatuse and change code of project1 based on this Enum" />
+    <MESSAGE value="debug some bugs about delivery" />
+    <MESSAGE value="sign up admin&#10;pay salary" />
+    <MESSAGE value="Filter for buyer" />
+    <MESSAGE value="generate UserMenu class &#10;generate Chat class(all users can chat with other users)" />
+    <MESSAGE value="generate method coomentMenu in BuyerMenu class" />
+    <MESSAGE value="use ANSI code for sout" />
+    <MESSAGE value="Create package menu for menu classes&#10;generate test classes by JUnit" />
+    <MESSAGE value="write javaDoc" />
+    <MESSAGE value="change curierkind" />
+    <option name="LAST_COMMIT_MESSAGE" value="change curierkind" />
+  </component>
+</project>
